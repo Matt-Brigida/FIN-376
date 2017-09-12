@@ -8,7 +8,7 @@ The summary should include:
 
 2.  The exchange on which the trade was executed.
 
-3.  The execution (fill) price.
+3.  The execution (fill) price, and time.
 
 4.  The transaction cost---broker fee and half the bid/ask spread.
 
@@ -25,4 +25,3 @@ The summary should include:
 3.  Short 745 shares of NVIDIA Corp.
 
 4.  Short 3000 shares of Exxon Mobil Corp.
-
