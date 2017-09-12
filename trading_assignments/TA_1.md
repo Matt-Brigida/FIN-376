@@ -1,8 +1,8 @@
 ## FIN 376: TA 1
 
-#### Execute the following trades in your IB account, and upload a summary of your trades to the TA1 dropbox on D2L.
+#### Execute the following trades in your IB account, and upload a summary of your trades to the TA1 dropbox on D2L (indicating your IB account name and number).
 
-The summary should include:
+For each trade the summary should include:
 
 1.  The security's symbol.
 
@@ -14,8 +14,6 @@ The summary should include:
 
 5.  The size of the position in dollars.
 
-6.  Your IB account name and number.
-
 #### Trades:
 
 1.  Buy 500 shares of Apple Inc.
@@ -25,3 +23,8 @@ The summary should include:
 3.  Short 745 shares of NVIDIA Corp.
 
 4.  Short 3000 shares of Exxon Mobil Corp.
+
+5.  Buy 1534 shares of the Financial Sector SPDR ETF.
+
+5.  Short 543 shares of the SPDR S&P 500 ETF.
+
